@@ -1,6 +1,7 @@
 export(assumptions)
 export(hat.plot)
 export(relweights)
+export(residplot)
 import(car)
 import(gvlma)
 import(HH)
